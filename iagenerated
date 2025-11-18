@@ -1,0 +1,84 @@
+# --- General Ad Networks ---
+ads.google.com
+adservice.google.com
+pagead2.googlesyndication.com
+securepubads.g.doubleclick.net
+static.doubleclick.net
+adclick.g.doubleclick.net
+
+# --- Google Tracking ---
+google-analytics.com
+ssl.google-analytics.com
+www.google-analytics.com
+analytics.google.com
+analytics-api-samples.googleusercontent.com
+
+# --- Facebook / Meta Tracking ---
+graph.facebook.com
+connect.facebook.net
+pixel.facebook.com
+ads.facebook.com
+
+# --- TikTok Tracking ---
+business-api.tiktok.com
+log-lite.tiktokv.com
+analytics.tiktok.com
+
+# --- Microsoft Tracking ---
+bingads.microsoft.com
+c.msn.com
+
+# --- Amazon Tracking ---
+aax.amazon-adsystem.com
+amazon-adsystem.com
+mads.amazon-adsystem.com
+
+# --- App & Mobile Ad Networks ---
+api.admob.com
+adcolony.com
+ads.moatads.com
+adservice.moatads.com
+ads.yahoo.com
+ads.nexage.com
+ads.mobfox.com
+ads.triplelift.com
+
+# --- Popup / Redirect Domains ---
+popads.net
+propellerads.com
+onclickads.net
+adf.ly
+shorte.st
+exoclick.com
+redirectvoluum.com
+
+# --- Taboola / Outbrain / Content Ads ---
+trc.taboola.com
+cdn.taboola.com
+outbrain.com
+widgets.outbrain.com
+
+# --- Tracking Pixels ---
+pixel.adsafeprotected.com
+pixel.quantserve.com
+pixel.rubiconproject.com
+pixel.advertising.com
+
+# --- Analytics (Non-critical) ---
+stats.wp.com
+matomo.cloud
+piwik.pro
+tracking-protection.cdn.mozilla.net
+
+# --- Spammy CDN Ad Scripts ---
+cdn.petametrics.com
+cdn.onesignal.com
+cdn.branch.io
+cdn.segment.com
+
+# --- Common Malware/Scam Ad Hosts ---
+malware-url.com
+scamurl.com
+fraudjs.com
+*.trk*
+*.adtrack*
